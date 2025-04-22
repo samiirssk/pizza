@@ -528,11 +528,6 @@ footer{
        }
        .social{
         display: flex;
-        gap: 10px;
-        height: fit-content;
-        width: 100%;
-        margin: 0 auto;
-        margin-bottom: 10px;
        flex-direction: column;
        }
        .social i{
