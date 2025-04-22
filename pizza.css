@@ -574,7 +574,7 @@ footer{
         display: block;
     }
     .pizza-types{
-        width: 100%;
+        width: 80%;
         height: fit-content;
         background-color: white;
      }
@@ -585,7 +585,7 @@ footer{
          font-size: 30px;
      }
      .pizza-types-row{
-        width: 80%;
+        width: 100%;
          background-color: white;
          display: flex;
          flex-direction: column;
