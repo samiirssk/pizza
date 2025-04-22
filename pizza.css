@@ -574,7 +574,7 @@ footer{
         display: block;
     }
     .pizza-types{
-        width: 80%;
+        width: 100%;
         height: fit-content;
         background-color: white;
      }
